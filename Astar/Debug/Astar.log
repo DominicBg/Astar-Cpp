@@ -1,0 +1,51 @@
+﻿  Astar.cpp
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(8): error C2143: syntax error: missing ';' before '<'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(8): error C2653: 'AStar': is not a class or namespace name
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(9): error C2143: syntax error: missing ';' before '{'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(9): error C2447: '{': missing function header (old-style formal list?)
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(46): error C2653: 'AStar': is not a class or namespace name
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(46): error C2065: 'State': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(46): error C2059: syntax error: '>'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(46): error C2039: 'vector': is not a member of 'std'
+  d:\user\desktop\projects\astar cpp\astar\astar\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(46): error C2039: 'map': is not a member of 'std'
+  d:\user\desktop\projects\astar cpp\astar\astar\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(46): error C2039: 'priority_queue': is not a member of 'std'
+  d:\user\desktop\projects\astar cpp\astar\astar\predefined c++ types (compiler internal)(256): note: see declaration of 'std'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(47): error C2143: syntax error: missing ';' before '{'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(47): error C2447: '{': missing function header (old-style formal list?)
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2653: 'AStar': is not a class or namespace name
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'State': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'currentState': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'Operation': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'nextOperation': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'Heuristic': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'heuristic': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2065: 'nextState': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(72): error C2182: 'recalculateState': illegal use of type 'void'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(73): error C2448: 'recalculateState': function-style initializer appears to be a function definition
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2653: 'AStar': is not a class or namespace name
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'State': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'nextState': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'currentState': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'Operation': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'nextOperation': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'Heuristic': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2065: 'heuristic': undeclared identifier
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(84): error C2182: 'calculateState': illegal use of type 'void'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(85): error C2448: 'calculateState': function-style initializer appears to be a function definition
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(90): error C2143: syntax error: missing ';' before '<'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(90): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(90): error C2086: 'int vector': redefinition
+  d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(8): note: see declaration of 'vector'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(90): error C2653: 'AStar': is not a class or namespace name
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(91): error C2143: syntax error: missing ';' before '{'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(91): error C2447: '{': missing function header (old-style formal list?)
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(103): error C2143: syntax error: missing ';' before '<'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(103): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(103): error C2086: 'int vector': redefinition
+  d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(8): note: see declaration of 'vector'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(103): error C2653: 'AStar': is not a class or namespace name
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(104): error C2143: syntax error: missing ';' before '{'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(104): error C2447: '{': missing function header (old-style formal list?)
