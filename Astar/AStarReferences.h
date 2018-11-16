@@ -1,9 +1,7 @@
-#include "pch.h"
-#include <vector>
 #pragma once
 
-#ifndef ASTAR_REF_H
-#define ASTAR_REF_H
+//#include "stdafx.h"
+#include <vector>
 
 class Operation
 {
@@ -55,5 +53,3 @@ public:
 	World() {}
 	~World() {}
 };
-
-#endif
