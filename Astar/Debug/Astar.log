@@ -1,6 +1,15 @@
 ﻿  Astar.cpp
 d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 d:\user\desktop\projects\astar cpp\astar\astar\astar.cpp(48): warning C4018: '<': signed/unsigned mismatch
-  main.cpp
+  GridAStar.cpp
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(17): error C2143: syntax error: missing ';' before '<'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(17): error C2238: unexpected token(s) preceding ';'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(21): error C2061: syntax error: identifier 'vector'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(24): error C2143: syntax error: missing ';' before '<'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(24): error C2238: unexpected token(s) preceding ';'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(25): error C2143: syntax error: missing ';' before '<'
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\user\desktop\projects\astar cpp\astar\astar\astar.h(25): error C2238: unexpected token(s) preceding ';'
   Generating Code...
-  Astar.vcxproj -> D:\User\Desktop\Projects\AStar cpp\Astar\Debug\Astar.exe
